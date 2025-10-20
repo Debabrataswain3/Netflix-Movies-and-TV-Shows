@@ -15,7 +15,7 @@ Key goals include:
 ### 📁 **Dataset Used**
 
 **Dataset Name:** Netflix Dataset
-**Source Link:** [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+**Source Link:** [Netflix Dataset on Kaggle](https://github.com/Debabrataswain3/Netflix-Movies-and-TV-Shows/blob/main/Netflix.csv)
 
 The dataset contains information such as title, type, director, cast, country, release year, rating, duration, and description.
 
